@@ -93,6 +93,6 @@ This repository is based on [LDM](https://github.com/CompVis/latent-diffusion), 
         publisher = {Springer Nature Switzerland},
         volume = {LNCS 15970},
         month = {September},
-        page = {523 -- 533}
+        page = {519 -- 529}
 }
 ```
